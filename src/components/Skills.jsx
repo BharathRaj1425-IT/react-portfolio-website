@@ -1,6 +1,5 @@
 import React from "react";
 import { skillsData } from "../data/mockData";
-import { Progress } from "./ui/progress";
 
 const Skills = () => {
   const styles = {
