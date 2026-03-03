@@ -94,7 +94,7 @@ function About() {
 
     stats: {
       display: "grid",
-      gridTemplateColumns: "repeat(3,1fr)",
+      gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))",
       gap: "20px",
       marginTop: "50px",
     },
