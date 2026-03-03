@@ -223,11 +223,11 @@ const Footer = () => {
         {/* Bottom */}
         <div style={styles.bottom}>
           <div>
-           Copyright © {currentYear}. All rights reserved | Built with{" "}
+            Copyright © {currentYear}. All rights reserved | Built with{" "}
             <span style={styles.heart}>
               <Heart size={16} fill="#ef4444" />
             </span>{" "}
-            using React by {personalInfo.name}
+            using <strong>React</strong> by <strong>{personalInfo.name}</strong>
           </div>
         </div>
       </div>
