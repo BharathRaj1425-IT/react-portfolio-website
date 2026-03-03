@@ -110,6 +110,7 @@ const Footer = () => {
       alignItems: "center",
       color: "#64748b",
       fontSize: 14,
+      textAlign: "center",
     },
 
     heart: {
