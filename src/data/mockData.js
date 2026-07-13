@@ -13,7 +13,7 @@ export const personalInfo = {
   title: "Software Engineer & IT Enthusiast",
   tagline: "Building exceptional digital experiences with modern technologies",
   email: "bharatharjun14259@gmail.com",
-  phone: "+91 9505004481",
+  phone: "+91-9505004481",
   location: "Hyderabad, India",
   github: "https://github.com/BharathRaj1425-IT",
   linkedin: "https://www.linkedin.com/in/bharath-raj-taduri/",
@@ -21,10 +21,10 @@ export const personalInfo = {
 
 export const aboutData = {
   description:
-    "I'm a passionate Full Stack Developer with 1.5+ years of experience building scalable web applications. I specialize in React, Node.js, and Cloud technologies. My approach combines Technical Expertise with creative Problem-Solving to deliver innovative solutions that drive business growth.",
+    "I'm a passionate Full Stack Developer with 2+ years of experience building scalable web applications. I specialize in React, Node.js, and Cloud technologies. My approach combines Technical Expertise with creative Problem-Solving to deliver innovative solutions that drive business growth.",
   image: aboutImg,
   highlights: [
-    "1.5+ years of professional development experience.",
+    "2+ years of professional development experience.",
     "Passionate about clean code and best practices.",
     "Currently exploring to broaden my backend knowledge.",
     "Thrive in collaborative environments where and technology come together.",
@@ -70,7 +70,7 @@ export const experienceData = [
     title: "Software Engineer",
     company: "FINNOVO Tech Functional Pvt. Ltd",
     location: "Hyderabad, India",
-    period: "Oct 2024 - Present",
+    period: "Sept 2024 - Present",
     description:
       "Software Engineer in a Saas Platform of over 20+ clients and 2000+ users.",
     achievements: [
