@@ -203,8 +203,8 @@ function About() {
             {/* Stats */}
             <div style={styles.stats}>
               {[
-                ["1.5+", "Years Exp."],
-                ["2+", "Programming Languages"],
+                ["2+", "Years Exp."],
+                ["3+", "Programming Languages"],
                 ["4+", "Tools"],
               ].map((s, i) => (
                 <div
