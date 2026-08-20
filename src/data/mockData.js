@@ -1,4 +1,4 @@
-import aboutImg from "../images/About.jpeg";
+import aboutImg from "../images/About.png";
 import reactGreatLearning from "../images/React Certification.jpeg";
 import sql from "../images/SQL Advanced.jpeg";
 import frontEnd from "../images/FrontEnd Certification.jpeg";
